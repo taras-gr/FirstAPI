@@ -1,2 +1,4 @@
 # Don't track content of these folders
 CityInfo/.vs
+CityInfo/CityInfo.API/bin
+CityInfo/CityInfo.API/obj
